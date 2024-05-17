@@ -24,8 +24,9 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/pradeish29/GoogleAuth-Firebase.git
+ ```bash
+ git clone https://github.com/pradeish29/GoogleAuth-Firebase.git
+```
 Navigate to the project directory:
 
 ```bash
@@ -49,7 +50,7 @@ npm start
 ```
 Open your browser and navigate to http://localhost:3000 to view the website.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -57,5 +58,5 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-License
+## License
 This project is licensed under the MIT License.
