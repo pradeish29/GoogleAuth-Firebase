@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoogleAuth-Firebase/static/css/main.38dd496a.css",
+    "main.js": "/GoogleAuth-Firebase/static/js/main.09a7dac2.js",
+    "static/js/592.bf5b0f30.chunk.js": "/GoogleAuth-Firebase/static/js/592.bf5b0f30.chunk.js",
+    "index.html": "/GoogleAuth-Firebase/index.html",
+    "main.38dd496a.css.map": "/GoogleAuth-Firebase/static/css/main.38dd496a.css.map",
+    "main.09a7dac2.js.map": "/GoogleAuth-Firebase/static/js/main.09a7dac2.js.map",
+    "592.bf5b0f30.chunk.js.map": "/GoogleAuth-Firebase/static/js/592.bf5b0f30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38dd496a.css",
+    "static/js/main.09a7dac2.js"
+  ]
+}
